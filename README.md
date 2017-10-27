@@ -1,2 +1,5 @@
 # hello-world
-This is a starter repository. 
+
+Hi everyone!
+
+Brady here, 
